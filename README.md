@@ -1,2 +1,2 @@
-# dialgo-flowchart-maker
+# Dialgo
 Dialgo allows drawing flowcharts with ease
